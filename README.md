@@ -67,4 +67,4 @@ Realtek       - https://www.realtek.com<br>
 Alfa Networks - https://www.alfa.com.tw<br>
 <br>
 And all those who may be using or contributing to it of anykind.<br>
-hanks!<br>
+Thanks!<br>
