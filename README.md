@@ -65,6 +65,6 @@ unmanaged-devices=mac:A7:A7:A7:A7:A7
 # Credits
 Realtek       - https://www.realtek.com<br>
 Alfa Networks - https://www.alfa.com.tw<br>
-aircrack-ng.  - https://www.aircrack-ng.org<br>
 <br>
-And all those who may be using or contributing to it of anykind. Thanks!<br>
+And all those who may be using or contributing to it of anykind.<br>
+hanks!<br>
